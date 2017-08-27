@@ -1,7 +1,8 @@
 import './styles/screen.scss'
+import './lectures/lecture18'
 
 const main = () => {
-  document.querySelector('h1').textContent += '?'
+  document.querySelector('h1').textContent += ''
 }
 
 document.addEventListener('DOMContentLoaded', main)
