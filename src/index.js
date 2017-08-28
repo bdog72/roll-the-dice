@@ -1,5 +1,5 @@
 import './styles/screen.scss'
-import './lectures/lecture18'
+import './lectures/lecture21'
 
 const main = () => {
   document.querySelector('h1').textContent += ''
