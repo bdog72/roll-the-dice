@@ -12,10 +12,11 @@ body {
   font: $base-text-size / 1 $base-font-family;
 }
 
-.container {
-  margin-top: 20px;
+.wrapper {
+  display: flex;
+  justify-content: center;
 }
 
-.jumbotron h1 {
-  text-align: center;
+.jumbotron {
+  margin-top: 20px;
 }
