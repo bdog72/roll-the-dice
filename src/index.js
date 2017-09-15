@@ -1,6 +1,6 @@
 import './styles/screen.scss'
 
-import './lectures/quizGame.js'
+import './es6/lecture97.js'
 
 const main = () => {
   document.querySelector('h1').textContent += ''
