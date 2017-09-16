@@ -1,6 +1,6 @@
 import './styles/screen.scss'
 
-import './es6/lecture97.js'
+import './es6/arrowFunctions.js'
 
 const main = () => {
   document.querySelector('h1').textContent += ''
